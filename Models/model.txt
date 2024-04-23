@@ -1,1 +1,1 @@
-
+In this model folder there is a file name as model_new.h5.rar it is a zip file you need to extract that file in your PC
